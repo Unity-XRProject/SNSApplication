@@ -1,0 +1,4 @@
+#Tue Jun 25 23:54:26 KST 2019
+base.0=/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

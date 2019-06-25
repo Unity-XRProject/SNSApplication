@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7C4433FA-4B4D-D95F-B3DF-3546BC25F886}</ProjectGuid>
+    <ProjectGuid>{A4958EB1-2A73-E073-D9FE-ED0C2A9E49F6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -62,19 +62,19 @@
   <ItemGroup>
     <Compile Include="Assets\Plugins\NativeGallery\Editor\NGPostProcessBuild.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -320,19 +320,19 @@
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>/Users/hg90/Desktop/Dev/Unity/Project/VRTest01/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -691,7 +691,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{5CB628BF-719C-5F60-E424-441FA701BA41}</Project>
+      <Project>{AD4308B1-05A3-7469-641D-4FBC25ABD1C9}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
