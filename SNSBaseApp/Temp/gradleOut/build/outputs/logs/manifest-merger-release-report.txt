@@ -1,169 +1,169 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
-MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-97
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:98-144
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:98-144
 	android:versionCode
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:145-175
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:2:145-175
 supports-screens
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
 	android:largeScreens
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
 	android:smallScreens
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
 	android:normalScreens
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
 	android:xlargeScreens
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
 	android:anyDensity
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
 application
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-17:17
-MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:4:3-6:17
-MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:4:3-6:17
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-17:17
+MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:4:3-6:17
+MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:4:3-6:17
 	android:label
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
 	android:icon
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-89
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-89
 	android:banner
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:145-182
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:145-182
 	android:theme
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
 	android:isGame
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-144
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-144
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
 	android:screenOrientation
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-139
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-139
 	android:label
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
 	android:launchMode
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:140-171
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:140-171
 	android:hardwareAccelerated
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:274-309
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:274-309
 	android:configChanges
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:172-273
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:172-273
 	android:theme
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:310-374
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:310-374
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
 action#android.intent.action.MAIN
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
 category#android.intent.category.LAUNCHER
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
 category#android.intent.category.LEANBACK_LAUNCHER
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
 meta-data#unityplayer.UnityActivity
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
 	android:value
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
 meta-data#unity.build-id
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
 	android:value
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
 meta-data#unity.splash-mode
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
 	android:value
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
 meta-data#unity.splash-enable
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-75
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-75
 	android:value
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-72
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-72
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
 meta-data#com.samsung.android.vr.application.mode
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-97
-MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:5:5-96
-MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:5:5-96
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-97
+MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:5:5-96
+MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:5:5-96
 	android:value
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:16:71-94
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:16:71-94
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:16:16-70
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:16:16-70
 uses-feature#0x00020000
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-52
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-52
 	android:glEsVersion
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:18:17-49
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:18:17-49
 uses-permission#android.permission.INTERNET
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-65
-MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:7:3-65
-MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:7:3-65
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-65
+MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:7:3-65
+MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:7:3-65
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:19:20-62
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:19:20-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-79
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-79
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-76
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-76
 uses-feature#android.hardware.touchscreen
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-88
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-88
 	android:required
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:21:61-85
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:21:61-85
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-60
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-99
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-99
 	android:required
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:22:72-96
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:22:72-96
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-71
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-108
+ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-108
 	android:required
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:23:81-105
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:23:81-105
 	android:name
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-80
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-80
 uses-sdk
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:3:3-45
-MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:3:3-45
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:3:3-45
+MERGED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:3:3-45
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-		ADDED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-		MERGED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
-		INJECTED from /Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		MERGED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:8:3-66
+ADDED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:8:3-66
 	android:name
-		ADDED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/AndroidManifest.xml:8:20-63
+		ADDED from [:OVRPlugin:] /Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/AndroidManifest.xml:8:20-63

@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/res/values/strings.xml",
+                    "source": "/Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/082bff9c99c2f00be502f4757600e925/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "169",
+                        "endColumns": "43",
+                        "endOffsets": "208"
+                    }
+                },
+                {
+                    "source": "/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "2,2",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/res/values/styles.xml",
+                    "source": "/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Temp/gradleOut/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",
@@ -37,23 +54,6 @@
                         "endLines": "6,9,13",
                         "endColumns": "8,8,8",
                         "endOffsets": "308,446,673"
-                    }
-                },
-                {
-                    "source": "/Users/hg90/.gradle/caches/transforms-1/files-1.1/OVRPlugin.aar/f1462ea6ab59dc226152e5c9ca92b080/res/values/values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "2",
-                        "startOffsets": "53",
-                        "endColumns": "41",
-                        "endOffsets": "92"
-                    },
-                    "to": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "169",
-                        "endColumns": "43",
-                        "endOffsets": "208"
                     }
                 }
             ]
