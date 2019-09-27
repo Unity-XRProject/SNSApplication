@@ -7,13 +7,15 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        if (NativeGallery.IsMediaPickerBusy())
+            return;
+        LoadAllImage(16,512);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        /*if (Input.GetMouseButtonDown(0))
         {
             if (Input.mousePosition.x < Screen.width / 3)
             {
@@ -39,7 +41,7 @@ public class NewBehaviourScript : MonoBehaviour
                     PickVideo();
                 }
             }
-        }
+        }*/
     }
     private IEnumerator TakeScreenshotAndSave()
     {
@@ -56,6 +58,40 @@ public class NewBehaviourScript : MonoBehaviour
         Destroy(ss);
     }
 
+    private void LoadAllImage(int amount, int maxSize)
+    {
+        NativeGallery.Permission permission = NativeGallery.GetImagesFromGallery((paths) =>
+        {
+            Debug.Log("Image path: " + paths);
+            
+            if (paths != null)
+            {
+                int i = 0;
+                foreach (string path in paths){
+                    // Create Texture from selected image
+                    Texture2D texture = NativeGallery.LoadImageAtPath(path, maxSize);
+                    if (texture == null)
+                    {
+                        Debug.Log("Couldn't load texture from " + path);
+                        return;
+                    }
+
+                    Material material = quad.GetComponent<Renderer>().material;
+                    if (!material.shader.isSupported) // happens when Standard shader is not included in the build
+                        material.shader = Shader.Find("Legacy Shaders/Diffuse");
+
+                    material.mainTexture = texture;
+
+                    // If a procedural texture is not destroyed manually, 
+                    // it will only be freed after a scene change
+                    Destroy(texture, 5f);
+                    i++;
+                } 
+            }
+        }, "Select a PNG images", "image/png", maxSize);
+
+        Debug.Log("Permission result: " + permission);
+    }
     private void PickImage(int maxSize)
     {
         NativeGallery.Permission permission = NativeGallery.GetImageFromGallery((path) =>
