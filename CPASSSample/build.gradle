@@ -2,10 +2,10 @@
 
 buildscript {
     repositories {
-        maven { url "http://70.121.224.52:8081/nexus/content/repositories/public" }
-        maven { url "http://70.121.224.52:8081/repository/maven-google/" }
-//        google()
-//        jcenter()
+//        maven { url "http://70.121.224.52:8081/nexus/content/repositories/public" }
+//        maven { url "http://70.121.224.52:8081/repository/maven-google/" }
+        google()
+        jcenter()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.3.1'
@@ -17,10 +17,10 @@ buildscript {
 
 allprojects {
     repositories {
-        maven { url "http://70.121.224.52:8081/nexus/content/repositories/public" }
-        maven { url "http://70.121.224.52:8081/repository/maven-google/" }
-//        google()
-//        jcenter()
+//        maven { url "http://70.121.224.52:8081/nexus/content/repositories/public" }
+//        maven { url "http://70.121.224.52:8081/repository/maven-google/" }
+        google()
+        jcenter()
     }
 }
 
