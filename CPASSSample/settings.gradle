@@ -1,0 +1,1 @@
+include ':app', ':cpaasLib-channel-debug', ':cpaasLib-channel-release'

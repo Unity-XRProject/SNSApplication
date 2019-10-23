@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/rootLayout"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical">
+
+	<com.sds.xr.widget.CustomClearableEditText
+		android:id="@+id/edit"
+		android:layout_width="match_parent"
+		android:layout_height="40dp"
+		android:maxLength="30" />
+
+	<ImageView
+		android:id="@+id/edit_underline"
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="#33fafafa"/>
+
+</LinearLayout>
+

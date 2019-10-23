@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="streaming_menu_dialog_items">
+        <item>@string/streaming_menu_dialog_open_keyboard</item>
+        <item>@string/streaming_menu_dialog_game_exit</item>
+    </string-array>
+</resources>

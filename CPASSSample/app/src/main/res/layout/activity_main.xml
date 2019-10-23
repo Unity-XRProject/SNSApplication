@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:resizeableActivity="true">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FF000000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/user_output"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="9"
+            android:textColor="@color/white"
+            android:background="@color/black" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+            <EditText
+                android:id="@+id/user_input"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="6"
+                android:textColor="@color/black"
+                android:background="@color/white"/>
+            <Button
+                android:id="@+id/upload_btn"
+                android:text="upload"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="2"/>
+            <Button
+                android:id="@+id/downloads_btn"
+                android:text="downloads"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="2"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/loading_splash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="#ffffff">
+
+        <ImageView
+            android:id="@+id/splash_logo"
+            android:layout_width="80dp"
+            android:layout_height="77dp"
+            android:layout_marginTop="100dp"
+            android:background="@drawable/ic_launcher" />
+
+        <ProgressBar
+            android:id="@+id/progress"
+            android:layout_marginTop="28dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:gravity="center_horizontal"
+            android:indeterminate="true"
+            android:indeterminateDrawable="@drawable/splash_loading_progress"/>
+
+        <TextView
+            android:id="@+id/loading"
+            android:layout_marginTop="12dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_provision_ing"
+            android:textColor="#999999"
+            android:textSize="14dp"
+            android:gravity="center" />
+    </LinearLayout>
+</RelativeLayout>

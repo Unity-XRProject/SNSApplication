@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GameLink</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="clear_query_button">입력내용 삭제</string>
+    <string name="dialog_provision_ing">로딩 중</string>
+    <string name="streaming_menu_dialog_title">설정</string>
+    <string name="streaming_menu_dialog_open_keyboard">키보드 불러오기</string>
+    <string name="streaming_menu_dialog_game_exit">게임 스트리밍 종료</string>
+    <string name="lifecycle_email_format_not_valid">이메일 형식에 맞게 입력해주세요. 예) abc@samsung.com</string>
+    <string name="invalid_id">ID를 확인하세요.</string>
+    <string name="samsung_company">Copyright 2017 SAMSUNG SDS. All rights reserved.</string>
+    <string name="id_hint">ID</string>
+    <string name="send_fail">Send fail!</string>
+</resources>

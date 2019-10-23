@@ -1,0 +1,37 @@
+<com.sds.xr.widget.StateLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:addStatesFromChildren="true"
+    android:orientation="vertical"
+    android:background="@null" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical">
+
+        <com.sds.xr.widget.AdaptableEditText
+            android:id="@+id/clearable_text1"
+            style="@style/EditTextStyle.Clearable"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#33fafafa"
+            android:layout_weight="1"
+            android:privateImeOptions="disableImage=true;"
+            android:textColor="#fafafa" />
+
+        <ImageButton
+            android:id="@+id/clearable_button1"
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="11dp"
+            android:background="#00000000"
+            android:contentDescription="@string/clear_query_button"
+            android:focusable="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/close_input"/>
+    </LinearLayout>
+
+</com.sds.xr.widget.StateLinearLayout>

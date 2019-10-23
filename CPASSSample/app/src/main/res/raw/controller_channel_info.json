@@ -1,0 +1,1142 @@
+﻿[
+  {
+    "actorId": "VRActor-1",
+    "joinAuthOtp": "08076e60be2a3d56927f33e04b1a92c1",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-2",
+    "joinAuthOtp": "3c8afbe27688aed9cb77356ce88b68a0",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-3",
+    "joinAuthOtp": "600b74762b4e907842a861a0ea3b4335",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-4",
+    "joinAuthOtp": "2b348fa941caf2e41337a62aa9e66ed7",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-5",
+    "joinAuthOtp": "c8a1ed08e9b1c2eb471f0d5c76f3cac7",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-6",
+    "joinAuthOtp": "736270f859069d11eb7dae2eb00bbd12",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-7",
+    "joinAuthOtp": "ff12443942d156749090b49fb8357acb",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-8",
+    "joinAuthOtp": "b6503535f560dad44cdd3369143b40b3",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-9",
+    "joinAuthOtp": "cc36bc06d4524f7b27e460c69475b101",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-10",
+    "joinAuthOtp": "aa8260bb16a75fdc95d72690c217807b",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-11",
+    "joinAuthOtp": "9843e04ce124d1f0c14b4a1bfdf24de0",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-12",
+    "joinAuthOtp": "568526b82f93c6a345ca6355251bc7e9",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-13",
+    "joinAuthOtp": "0f2513e82f5308b0ca48ff8c613b06af",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-14",
+    "joinAuthOtp": "4817beae73a61fe552128ee518d363a7",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-15",
+    "joinAuthOtp": "1f39367d941d34174a364b4b4ef79119",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-16",
+    "joinAuthOtp": "757cfaff367eecaaf67be636e243a1f6",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-17",
+    "joinAuthOtp": "31eda0eb5a1186611c34f599003b6fdd",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-18",
+    "joinAuthOtp": "7129cb9db5bcd01b606633e55650d4bd",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-19",
+    "joinAuthOtp": "45797d504354c6a7fbbddaae8bfc7439",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-20",
+    "joinAuthOtp": "2348003c63ecffd90700b0e747dfaea6",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-21",
+    "joinAuthOtp": "1d1630309af57970142a5cb7b13c5d4e",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-22",
+    "joinAuthOtp": "4082d8067205b25e361dac59d2340e31",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-23",
+    "joinAuthOtp": "4ebb6db6c5fcdb49a7ff6da918ba46c7",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-24",
+    "joinAuthOtp": "e30826f3148c6182c70e812b31f436a6",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-25",
+    "joinAuthOtp": "2c54125bf370622f86a17bf0fd0ce855",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-26",
+    "joinAuthOtp": "f3e422f39cfd59936e65f3ed032febdd",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-27",
+    "joinAuthOtp": "9a8b0f5b3dc1ec16525775c3805e0205",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-28",
+    "joinAuthOtp": "a95b02f9afa7b3f52133203a7070cbf5",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-29",
+    "joinAuthOtp": "3ef12778a9a45afd4cd3c04c89e2e1e0",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-30",
+    "joinAuthOtp": "49944a821aa802c7dd52c6f632f5385f",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-31",
+    "joinAuthOtp": "8979f470d62b7af0ef9df0c62bf55e5f",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-32",
+    "joinAuthOtp": "bec225f17378e105735e243eed99a2f0",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-33",
+    "joinAuthOtp": "02125e24aac4687a4d8414f21a41d47f",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-34",
+    "joinAuthOtp": "161ed8b7a1eb25496d3aad70ea234adf",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-35",
+    "joinAuthOtp": "0763ad90c18d0072b100dd55085b06d6",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-36",
+    "joinAuthOtp": "7b60c54edde6502ba777ee737c6fc017",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-37",
+    "joinAuthOtp": "a08916d02037b077032b142e25fff43f",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  },
+  {
+    "actorId": "VRActor-38",
+    "joinAuthOtp": "5a6098bc0f2b1291244cd08f0ecd09bb",
+    "frontManagerAuthKey": "MIGJAoGBALf6feaquDWYqujaW7AygXLyYsnQTDEgCkxfWtQHIdCQfYQ2T/rj/xM6an/pqxu3FazCGO8fFb1T/St997NYY8yivzb1s7EuMPbCH0593SfW/wJZxxrNMRbiQvrvxdw2hx5DfGChQ7P8sc6nUVkGHBhjDQQ2yXrSydsB6CkqWZnTAgMBAAE=",
+    "privateFrontManagerList": [   {
+      "ip": "10.104.1.11",
+      "port": 9091,
+      "connectionType": "U"
+    }],
+    "publicFrontManagerList":    [
+      {
+        "ip": "52.78.101.188",
+        "port": 9090,
+        "connectionType": "U"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 80,
+        "connectionType": "W"
+      },
+      {
+        "ip": "52.78.101.188",
+        "port": 443,
+        "connectionType": "S"
+      }
+    ],
+    "featureCode": 9,
+    "serviceId": "XR-Research",
+    "channelId": "112c91ab-ae67-40c1-bbef-d8b2c3421300"
+  }
+]

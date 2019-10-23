@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="clear">@android:color/transparent</color>
+
+    <color name="colorPrimary">#cccccc</color>
+    <color name="colorPrimaryDark">#cccccc</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="skin_lockscreen_edit_underline_focused_color">#2a96fd</color>
+    <color name="skin_lockscreen_edit_underline_unfocused_color">#66000000</color>
+    <color name="skin_list_item_title_text_color">#cc000000</color>
+    <color name="skin_search_hint_text_color">#cccccc</color>
+    <color name="skin_login_id_pw_text_color">#222222</color>
+</resources>

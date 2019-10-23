@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AppTheme">
+        <attr name="customClearableEditTextStyle" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="ClearableEditText">
+        <attr name="sqLayout" format="reference" />
+        <attr name="sqSearchIcon" format="reference" />
+        <attr name="android:maxLength" />
+        <attr name="android:minHeight" />
+        <attr name="android:hint" />
+        <attr name="android:inputType" />
+        <attr name="android:imeOptions" />
+    </declare-styleable>
+
+    <declare-styleable name="MovableFloatingView">
+        <attr name="defaultIcon" format="reference" />
+        <attr name="pressedIcon" format="reference" />
+        <attr name="isMovable" format="boolean" />
+        <attr name="isScalable" format="boolean" />
+        <attr name="isEscapable" format="boolean" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sds.xr">
+    <!--
+<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+<uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+<uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- for cpaasLib - Permission for background service START -->
+    <permission
+        android:name="${applicationId}.permission.CHANNEL_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="${applicationId}.permission.CHANNEL_MESSAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:name="com.sds.GLApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:resizeableActivity="true"
+        android:roundIcon="@drawable/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.sds.xr.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sds.xr.LoginActivity"
+            android:label="@string/title_activity_login">
+        </activity>
+        <activity
+            android:name="com.sds.xr.MainActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|density|screenLayout|uiMode|keyboard|keyboardHidden|navigation"
+            android:resizeableActivity="true"
+            android:screenOrientation="userLandscape"
+            android:theme="@style/MainTheme"></activity> <!-- Version < 3.0. DeX Mode and Screen Mirroring support -->
+        <meta-data
+            android:name="com.samsung.android.keepalive.density"
+            android:value="true" /> <!-- Version >= 3.0. DeX Dual Mode support -->
+        <meta-data
+            android:name="com.samsung.android.multidisplay.keep_process_alive"
+            android:value="true" /> <!-- fullscreen window -->
+        <meta-data
+            android:name="com.samsung.android.dex.launchwidth"
+            android:value="0" />
+        <meta-data
+            android:name="com.samsung.android.dex.launchheight"
+            android:value="0" />
+    </application>
+
+</manifest>
