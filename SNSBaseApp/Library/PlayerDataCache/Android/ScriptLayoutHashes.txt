@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/SNSTest.apk
+/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/VRtest01.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?

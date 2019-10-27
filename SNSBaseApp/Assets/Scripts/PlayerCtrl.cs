@@ -38,10 +38,6 @@ public class PlayerCtrl : MonoBehaviour
         ray = Camera.main.ScreenPointToRay(ScreenCenter);
         CursorGageImage.fillAmount = GageTimer;
         Rotbox = GameObject.FindWithTag("Box");
-        if (Rotbox)
-        {
-            Debug.Log(Rotbox.name+" Founded");
-        }
         if (Physics.Raycast(ray, out hit, 100.0f))
         {
             if (hit.collider.CompareTag("leftbtn"))
@@ -79,6 +75,17 @@ public class PlayerCtrl : MonoBehaviour
                 }
             }
             else if (hit.collider.CompareTag("downbtn"))
+            {
+                GageTimer += 1.0f / 2.0f * Time.deltaTime;
+
+                if (GageTimer >= 1)
+                {
+                    //Rotbox.transform.rotation = Quaternion.Euler(90.0f, 0, 0);
+                            Rotbox.transform.Rotate(new Vector3(90.0f, 0,0),Space.World);
+                    GageTimer = 0;
+                }
+            }
+            else if (hit.collider.CompareTag("Quad"))
             {
                 GageTimer += 1.0f / 2.0f * Time.deltaTime;
 

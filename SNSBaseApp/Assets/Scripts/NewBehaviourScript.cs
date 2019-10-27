@@ -60,22 +60,23 @@ public class NewBehaviourScript : MonoBehaviour
 
     private void LoadAllImage(int amount, int maxSize)
     {
-        NativeGallery.Permission permission = NativeGallery.GetImagesFromGallery((paths) =>
+        /*NativeGallery.Permission permission = NativeGallery.GetImagesFromGallery((paths) =>
         {
             Debug.Log("Image path: " + paths);
-            
+            GameObject[] quads = GameObject.FindGameObjectsWithTag("Frame");
             if (paths != null)
             {
                 int i = 0;
                 foreach (string path in paths){
                     // Create Texture from selected image
+                    if (i >= amount - 1) break;
                     Texture2D texture = NativeGallery.LoadImageAtPath(path, maxSize);
                     if (texture == null)
                     {
                         Debug.Log("Couldn't load texture from " + path);
                         return;
                     }
-
+                    GameObject quad = quads[i];
                     Material material = quad.GetComponent<Renderer>().material;
                     if (!material.shader.isSupported) // happens when Standard shader is not included in the build
                         material.shader = Shader.Find("Legacy Shaders/Diffuse");
@@ -88,8 +89,36 @@ public class NewBehaviourScript : MonoBehaviour
                     i++;
                 } 
             }
-        }, "Select a PNG images", "image/png", maxSize);
+        }, "Select a PNG images", "image/png", maxSize);*/
+        NativeGallery.Permission permission = NativeGallery.GetImageFromGallery((paths) =>
+        {
+            Debug.Log("Image path: " + paths);
+            GameObject[] quads = GameObject.FindGameObjectsWithTag("Frame");
+            Debug.Log("Load Frame Tages" + quads[0]);
+            Debug.Log("Selected Quad : "+quads[0].transform.Find("Quad"));
+            if (paths != null)
+            {
+                int i = 0;
+                // Create Texture from selected image
+                Texture2D texture = NativeGallery.LoadImageAtPath(paths, maxSize);
+                if (texture == null)
+                {
+                    Debug.Log("Couldn't load texture from " + paths);
+                    return;
+                }
+                GameObject quad = quads[i];
+                Material material = quad.transform.Find("Quad").GetComponent<Renderer>().material;
+                if (!material.shader.isSupported) // happens when Standard shader is not included in the build
+                    material.shader = Shader.Find("Legacy Shaders/Diffuse");
 
+                material.mainTexture = texture;
+
+                // If a procedural texture is not destroyed manually, 
+                // it will only be freed after a scene change
+                //Destroy(texture, 5f);
+                i++;
+            }
+        }, "Select a PNG images", "image/png", maxSize);
         Debug.Log("Permission result: " + permission);
     }
     private void PickImage(int maxSize)

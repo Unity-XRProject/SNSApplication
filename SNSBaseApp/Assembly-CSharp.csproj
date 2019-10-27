@@ -56,19 +56,19 @@
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\PlayerCtrl.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -269,13 +269,13 @@
  <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
