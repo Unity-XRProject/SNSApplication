@@ -18,7 +18,7 @@ public class AndroidGallery //: MonoBehaviour
 
     public static void Trigger()
     {
-        AndroidJavaClass instance = AJC.CallStatic<AndroidJavaClass>("getInstance", Context, "VRActor1");
+        AndroidJavaObject instance = AJC.CallStatic<AndroidJavaObject>("getInstance", Context, "VRActor1");
         instance.Call("sendImage", 1);
     }
 
