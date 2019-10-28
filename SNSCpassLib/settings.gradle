@@ -1,0 +1,2 @@
+include ':sdsxrlib'
+rootProject.name='SDSXRLib'
