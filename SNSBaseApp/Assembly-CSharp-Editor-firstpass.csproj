@@ -55,19 +55,19 @@
   <ItemGroup>
      <Compile Include="Assets\Plugins\NativeGallery\Editor\NGPostProcessBuild.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -300,23 +300,26 @@
  <Reference Include="UnityEditor.Android.Extensions">
  <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEditor.WebGL.Extensions">
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
- <HintPath>/Users/hg90/Documents/GitHub/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+ <HintPath>/Users/hg90/Desktop/Dev/Unity/Git/SNSApplication/SNSBaseApp/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Users/hg90/Desktop/Dev/Unity/2018.4.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

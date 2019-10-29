@@ -9,6 +9,8 @@ TagManager:
   - upbtn
   - downbtn
   - Box
+  - Frame
+  - Quad
   layers:
   - Default
   - TransparentFX

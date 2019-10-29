@@ -30,7 +30,7 @@ dependencies {
 }
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 26
     buildToolsVersion '28.0.3'
 
     compileOptions {
@@ -40,7 +40,7 @@ android {
 
     defaultConfig {
         minSdkVersion 23
-        targetSdkVersion 27
+        targetSdkVersion 26
         applicationId 'com.HGVR.VRTest01'
         ndk {
             abiFilters 'armeabi-v7a', 'x86'
