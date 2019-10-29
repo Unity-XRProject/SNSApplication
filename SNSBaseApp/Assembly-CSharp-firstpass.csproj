@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Plugins\AndroidGallary\AndroidGallary.cs" />
      <Compile Include="Assets\Plugins\NativeGallery\Android\NGCallbackHelper.cs" />
      <Compile Include="Assets\Plugins\NativeGallery\Android\NGMediaReceiveCallbackAndroid.cs" />
      <Compile Include="Assets\Plugins\NativeGallery\Android\NGPermissionCallbackAndroid.cs" />

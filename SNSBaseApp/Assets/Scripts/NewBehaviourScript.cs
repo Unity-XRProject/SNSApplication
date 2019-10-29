@@ -4,12 +4,16 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
+    private AndroidGallery ag = null;
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("AgTest::Start()");
+
         if (NativeGallery.IsMediaPickerBusy())
             return;
-        LoadAllImage(16,512);
+        Load100Images(512);
+        //LoadAllImage(16,512);
     }
 
     // Update is called once per frame
@@ -43,7 +47,7 @@ public class NewBehaviourScript : MonoBehaviour
             }
         }*/
     }
-    private IEnumerator TakeScreenshotAndSave()
+    /*private IEnumerator TakeScreenshotAndSave()
     {
         yield return new WaitForEndOfFrame();
 
@@ -56,8 +60,40 @@ public class NewBehaviourScript : MonoBehaviour
 
         // To avoid memory leaks
         Destroy(ss);
-    }
+    }*/
+    private void Load100Images(int maxSize)
+    {
+        ag = AndroidGallery.GetInstance("VRActor1");
+        GameObject[] quads = GameObject.FindGameObjectsWithTag("Frame");
+        Debug.Log("Load Frame Tages" + quads[0]);
+        Debug.Log("Selected Quad : "+quads[0].transform.Find("Quad"));
+        string[] imgs = ag.GetRecent100();
+        int i = 0;
+        foreach (GameObject q in quads)
+        {
+            if (imgs[i] != null)
+            {
+                // Create Texture from selected image
+                Texture2D texture = NativeGallery.LoadImageAtPath(imgs[i], maxSize);
+                if (texture == null)
+                {
+                    Debug.Log("Couldn't load texture from " + imgs[i]);
+                    return;
+                }
+                GameObject quad = q;
+                Material material = quad.transform.Find("Quad").GetComponent<Renderer>().material;
+                if (!material.shader.isSupported) // happens when Standard shader is not included in the build
+                    material.shader = Shader.Find("Legacy Shaders/Diffuse");
 
+                material.mainTexture = texture;
+
+                // If a procedural texture is not destroyed manually, 
+                // it will only be freed after a scene change
+                //Destroy(texture, 5f);
+                i++;
+            }
+        }
+    }
     private void LoadAllImage(int amount, int maxSize)
     {
         /*NativeGallery.Permission permission = NativeGallery.GetImagesFromGallery((paths) =>
@@ -121,7 +157,7 @@ public class NewBehaviourScript : MonoBehaviour
         }, "Select a PNG images", "image/png", maxSize);
         Debug.Log("Permission result: " + permission);
     }
-    private void PickImage(int maxSize)
+    /*private void PickImage(int maxSize)
     {
         NativeGallery.Permission permission = NativeGallery.GetImageFromGallery((path) =>
         {
@@ -172,5 +208,5 @@ public class NewBehaviourScript : MonoBehaviour
         }, "Select a video");
 
         Debug.Log("Permission result: " + permission);
-    }
+    }*/
 }
