@@ -1,4 +1,4 @@
-package com.sds.xr.sns.lib;https://github.com/Unity-XRProject/SNSApplication
+package com.sds.xr.sns.lib;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -31,15 +31,16 @@ public class AndroidGallary {
     private AndroidGalleryCallback callback = null;
     private static final String TAG = "VRSNS";
     private Context ctx;
-    private String[] imgs = new String[100];
+    private String[] imgs;
     private ActorInfo actorInfo;
     private boolean isLoggedIn = false;
     private String currentDownloadableID = null;
 
-    public static AndroidGallary getInstance(Context ctx, String actorId) {
+    public static AndroidGallary getInstance(Context ctx, String actorId, int capacity) {
         synchronized (AndroidGallary.class) {
             if (instance == null) {
                 instance = new AndroidGallary(ctx, actorId);
+                imgs = new String[capacity];
             }
         }
         return instance;
@@ -50,7 +51,7 @@ public class AndroidGallary {
         StringBuilder sb = new StringBuilder();
         ContentResolver cr = ctx.getContentResolver();
         Cursor cursor = cr.query(MediaStore.Images.Media.EXTERNAL_CONTENT_URI, new String[] { MediaStore.MediaColumns.DATA }, null, null, "date_modified desc");
-        for (int i = 0; i < 100; i++) if (cursor.moveToNext()) {
+        for (int i = 0; i < imgs.length; i++) if (cursor.moveToNext()) {
             String img = cursor.getString(0);
             imgs[i] = img;
             Log.i(TAG, img);
@@ -99,7 +100,7 @@ public class AndroidGallary {
 
     }
 
-    public String[] getRecent100() {
+    public String[] getImageList() {
         return imgs;
     }
 
