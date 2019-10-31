@@ -36,22 +36,29 @@ public class AndroidGallary {
     private boolean isLoggedIn = false;
     private String currentDownloadableID = null;
 
+    /**
+     * 
+     * @param ctx
+     * @param actorId
+     * @param capacity The initial capacity. Meaningless when already initialized.
+     * @return
+     */
     public static AndroidGallary getInstance(Context ctx, String actorId, int capacity) {
         synchronized (AndroidGallary.class) {
             if (instance == null) {
-                instance = new AndroidGallary(ctx, actorId);
-                imgs = new String[capacity];
+                instance = new AndroidGallary(ctx, actorId, capacity);
             }
         }
         return instance;
     }
 
-    protected AndroidGallary(Context ctx, String actorId) {
+    protected AndroidGallary(Context ctx, String actorId, int capacity) {
         this.ctx = ctx;
         StringBuilder sb = new StringBuilder();
         ContentResolver cr = ctx.getContentResolver();
         Cursor cursor = cr.query(MediaStore.Images.Media.EXTERNAL_CONTENT_URI, new String[] { MediaStore.MediaColumns.DATA }, null, null, "date_modified desc");
-        for (int i = 0; i < imgs.length; i++) if (cursor.moveToNext()) {
+        imgs = new String[capacity];
+        for (int i = 0; i < capacity; i++) if (cursor.moveToNext()) {
             String img = cursor.getString(0);
             imgs[i] = img;
             Log.i(TAG, img);
