@@ -5,13 +5,12 @@ using UnityEngine;
 
 public class BtnCtrl : MonoBehaviour
 {
-	public GameObject[] Buttons_up;
-	public GameObject[] Buttons_down;
+	public GameObject[] Buttons_send;
 
     // Start is called before the first frame update
     void Start()
     {
-        AllBtnDisable();
+        //AllBtnDisable();
     }
 
     // Update is called once per frame	
@@ -20,15 +19,10 @@ public class BtnCtrl : MonoBehaviour
         
     }
 
-    private void AllBtnDisable()
+    public void AllBtnDisable()
     {
-    	Buttons_up = GameObject.FindGameObjectsWithTag("upbtn");
-    	Buttons_down = GameObject.FindGameObjectsWithTag("downbtn");
-    	foreach ( GameObject button in Buttons_up )
-    	{
-    		button.SetActive(false);
-    	}
-    	foreach ( GameObject button in Buttons_down )
+    	Buttons_send = GameObject.FindGameObjectsWithTag("SendBtn");
+    	foreach ( GameObject button in Buttons_send )
     	{
     		button.SetActive(false);
     	}
@@ -36,9 +30,10 @@ public class BtnCtrl : MonoBehaviour
 
     public void ActiveSelectedBtn(GameObject selected)
     {
+    	Debug.Log("Selected Quad = "+selected);
+    	//Debug.Log("Selected Quad's Children = "+selected.transform.GetComponentsInChildren<GameObject>());
     	try{
-			selected.transform.Find("Up_btn").gameObject.SetActive(true);
-			selected.transform.Find("Dn_btn").gameObject.SetActive(true);
+			selected.transform.Find("SendBtn").gameObject.SetActive(true);
     	}
     	catch (NullReferenceException ex){
 

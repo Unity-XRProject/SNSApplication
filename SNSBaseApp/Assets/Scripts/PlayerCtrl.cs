@@ -15,6 +15,8 @@ public class PlayerCtrl : MonoBehaviour
     private float GageTimer = 0.0f;
     private Quaternion RotationQ;
     private BtnCtrl BtnCtrl;
+    public GameObject[] Buttons_send;
+
     int speed = 100;
 
     public float RotationSpeed = 0.0f;
@@ -22,7 +24,8 @@ public class PlayerCtrl : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        ScreenCenter = new Vector3(Camera.main.pixelWidth / 2, Camera.main.pixelHeight / 2);   
+        //ScreenCenter = new Vector3(Camera.main.pixelWidth / 2, Camera.main.pixelHeight / 2);
+        AllBtnDisable();
     }
 
     // Update is called once per frame
@@ -34,60 +37,28 @@ public class PlayerCtrl : MonoBehaviour
         CursorGageImage.fillAmount = GageTimer;
         if (Physics.Raycast(ray, out hit, 100.0f))
         {
-        	
-	            if (hit.collider.CompareTag("leftbtn"))
+            Debug.Log("Hitted Object = "+hit.collider.tag);
+	            if (hit.collider.CompareTag("SendBtn"))
 	            {
-	                GageTimer += 1.0f / 2.0f * Time.deltaTime;
-
-	                if (GageTimer >= 1)
-	                {
-	                    //Rotbox.transform.rotation += Quaternion.Euler(0, -90.0f, 0);
-	                    //Rotbox.transform.Rotate(new Vector3(0, -90.0f, 0),Space.World);
-	                    //rotbox.transform.rotation = Quaternion.Slerp(rotbox.transform.rotation, RotationQ, RotationSpeed * Time.deltaTime);
-	                    GageTimer = 0;
-	                }
-	            }
-	            else if(hit.collider.CompareTag("rightbtn"))
-	            {
-	                GageTimer += 1.0f / 2.0f * Time.deltaTime;
-
-	                if (GageTimer >= 1)
-	                {
-	                    //Rotbox.transform.rotation += Quaternion.Euler(0, 90.0f, 0);
-	                    //Rotbox.transform.Rotate(new Vector3(0, 90.0f, 0),Space.World);
-	                    GageTimer = 0;
-	                }
-	            }
-	            else if (hit.collider.CompareTag("upbtn"))
-	            {
-	                GageTimer += 1.0f / 2.0f * Time.deltaTime;
+	                GageTimer += 1.0f / 1.5f * Time.deltaTime;
 
 	                if (GageTimer >= 1)
 	                {
 	                    //Rotbox.transform.rotation = Quaternion.Euler(-90.0f, 0, 0);
 	                    //Rotbox.transform.Rotate(new Vector3(-90.0f, 0, 0),Space.World);
-	                    GageTimer = 0;
-	                }
-	            }
-	            else if (hit.collider.CompareTag("downbtn"))
-	            {
-	                GageTimer += 1.0f / 2.0f * Time.deltaTime;
-
-	                if (GageTimer >= 1)
-	                {
-	                    //Rotbox.transform.rotation = Quaternion.Euler(90.0f, 0, 0);
-	                    //Rotbox.transform.Rotate(new Vector3(90.0f, 0,0),Space.World);
+	                    AllBtnDisable();
 	                    GageTimer = 0;
 	                }
 	            }
 	            else if (hit.collider.CompareTag("Quad"))
 	            {
-	                GageTimer += 1.0f / 2.0f * Time.deltaTime;
+	                GageTimer += 1.0f / 1.5f * Time.deltaTime;
 
 	                if (GageTimer >= 1)
 	                {
 	                	GameObject quad = hit.collider.gameObject;
-	                	BtnCtrl.ActiveSelectedBtn(quad);
+	                	//Debug.Log("Selected Quad = "+quad+"  in Player");
+	                	ActiveSelectedBtn(quad);
 	                	//Vector3 Gage = ScreenCenter;
 	                    //Vector3 offset = (quad.transform.position-Gage);
 	                    //float fMove = Time.deltaTime * speed;
@@ -104,11 +75,32 @@ public class PlayerCtrl : MonoBehaviour
         else
         {
             GageTimer = 0;
+            //AllBtnDisable();
         }
         }       
         catch (NullReferenceException ex) {
         	//Debug.Log("Error in PlayerCtrl" + ex);
         }
     }
-	
+    public void AllBtnDisable()
+    {
+    	Buttons_send = GameObject.FindGameObjectsWithTag("SendBtn");
+    	foreach ( GameObject button in Buttons_send )
+    	{
+    		button.SetActive(false);
+    	}
+    }
+    
+    public void ActiveSelectedBtn(GameObject selected)
+    {
+    	//Debug.Log("Selected Quad = "+selected);
+    	//Debug.Log("Selected Quad's Children = "+selected.transform.GetComponentsInChildren<GameObject>());
+    	try{
+			selected.transform.Find("SendBtn").gameObject.SetActive(true);
+    	}
+    	catch (NullReferenceException ex){
+
+    	}
+    	
+    }
 }

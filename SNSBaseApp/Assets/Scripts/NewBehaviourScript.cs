@@ -65,12 +65,13 @@ public class NewBehaviourScript : MonoBehaviour
     {
         ag = AndroidGallery.GetInstance("VRActor1");
         GameObject[] quads = GameObject.FindGameObjectsWithTag("Frame");
-        Debug.Log("Load Frame Tages" + quads[0]);
-        Debug.Log("Selected Quad : "+quads[0].transform.Find("Quad"));
+        
         string[] imgs = ag.GetRecent100();
         int i = 0;
         foreach (GameObject q in quads)
         {
+            Debug.Log("Load Frame Tage" + q.name);
+            if (i > 14) break;
             if (imgs[i] != null)
             {
                 // Create Texture from selected image

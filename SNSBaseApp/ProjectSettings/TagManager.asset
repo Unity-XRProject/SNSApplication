@@ -11,6 +11,8 @@ TagManager:
   - Box
   - Frame
   - Quad
+  - sendbtn
+  - SendBtn
   layers:
   - Default
   - TransparentFX
